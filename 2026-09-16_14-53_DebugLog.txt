@@ -1,0 +1,174 @@
+[16-09-26 14:53:41.940] LOG  : General      f:0> 16-09-2026 14:53:41.
+[16-09-26 14:53:42.003] LOG  : General      f:0> SLF4J(I): Attempting to load provider "zombie.core.logger.Slf4jBridge" specified via "slf4j.provider" system property.
+[16-09-26 14:53:42.413] LOG  : General      f:0> ===== System specs =====.
+[16-09-26 14:53:42.415] LOG  : General      f:0> CPU: AMD Ryzen 5 7520U with Radeon Graphics         , vendor: AuthenticAMD, cores: 4, threads: 8.
+[16-09-26 14:53:42.428] LOG  : General      f:0> RAM: 15648 Mb.
+[16-09-26 14:53:42.453] LOG  : General      f:0> Base board: E1504FA, vendor: ASUSTeK COMPUTER INC..
+[16-09-26 14:53:42.458] LOG  : General      f:0> GPU: AMD Radeon(TM) Graphics, vendor: Advanced Micro Devices, Inc., video memory: 512 Mb, driver: 32.0.21045.5002.
+[16-09-26 14:53:42.461] LOG  : General      f:0> Disk info: 475.47 Gb, free space: 71.70 Gb, usable space: 71.70 Gb.
+[16-09-26 14:53:42.749] LOG  : General      f:0> OS: Windows 11, version: 10.0, arch: amd64, build: 26200.
+[16-09-26 14:53:42.750] LOG  : General      f:0> JVM (free: 3986 Mb, max: 8192 Mb, total available: 4096 Mb).
+[16-09-26 14:53:42.751] LOG  : General      f:0> ========================.
+[16-09-26 14:53:42.752] LOG  : General      f:0> java.specification.version=25.
+[16-09-26 14:53:42.753] LOG  : General      f:0> sun.cpu.isalist=amd64.
+[16-09-26 14:53:42.755] LOG  : General      f:0> sun.jnu.encoding=Cp1252.
+[16-09-26 14:53:42.756] LOG  : General      f:0> java.vm.vendor=Azul Systems, Inc..
+[16-09-26 14:53:42.757] LOG  : General      f:0> sun.arch.data.model=64.
+[16-09-26 14:53:42.758] LOG  : General      f:0> java.vendor.url=http://www.azul.com/.
+[16-09-26 14:53:42.759] LOG  : General      f:0> zomboid.steam=1.
+[16-09-26 14:53:42.761] LOG  : General      f:0> java.vm.specification.version=25.
+[16-09-26 14:53:42.762] LOG  : General      f:0> os.name=Windows 11.
+[16-09-26 14:53:42.763] LOG  : General      f:0> zomboid.znetlog=1.
+[16-09-26 14:53:42.764] LOG  : General      f:0> slf4j.provider=zombie.core.logger.Slf4jBridge.
+[16-09-26 14:53:42.764] LOG  : General      f:0> jdk.debug=release.
+[16-09-26 14:53:42.765] LOG  : General      f:0> sun.cpu.endian=little.
+[16-09-26 14:53:42.766] LOG  : General      f:0> java.specification.vendor=Oracle Corporation.
+[16-09-26 14:53:42.766] LOG  : General      f:0> java.version.date=2025-10-21.
+[16-09-26 14:53:42.767] LOG  : General      f:0> java.home=C:\Program Files (x86)\Steam\steamapp....
+[16-09-26 14:53:42.768] LOG  : General      f:0> file.separator=\.
+[16-09-26 14:53:42.769] LOG  : General      f:0> line.separator=.
+[16-09-26 14:53:42.769] LOG  : General      f:0> java.vm.specification.vendor=Oracle Corporation.
+[16-09-26 14:53:42.770] LOG  : General      f:0> java.specification.name=Java Platform API Specification.
+[16-09-26 14:53:42.771] LOG  : General      f:0> java.awt.headless=true.
+[16-09-26 14:53:42.772] LOG  : General      f:0> sun.management.compiler=HotSpot 64-Bit Tiered Compilers.
+[16-09-26 14:53:42.773] LOG  : General      f:0> java.runtime.version=25.0.1+8-LTS.
+[16-09-26 14:53:42.774] LOG  : General      f:0> stdout.encoding=Cp1252.
+[16-09-26 14:53:42.775] LOG  : General      f:0> os.version=10.0.
+[16-09-26 14:53:42.776] LOG  : General      f:0> jna.nosys=false.
+[16-09-26 14:53:42.777] LOG  : General      f:0> java.runtime.name=OpenJDK Runtime Environment.
+[16-09-26 14:53:42.777] LOG  : General      f:0> file.encoding=UTF-8.
+[16-09-26 14:53:42.778] LOG  : General      f:0> java.vm.name=OpenJDK 64-Bit Server VM.
+[16-09-26 14:53:42.779] LOG  : General      f:0> java.vendor.version=Zulu25.30+17-CA.
+[16-09-26 14:53:42.779] LOG  : General      f:0> jna.loaded=true.
+[16-09-26 14:53:42.780] LOG  : General      f:0> java.vendor.url.bug=http://www.azul.com/support/.
+[16-09-26 14:53:42.781] LOG  : General      f:0> java.version=25.0.1.
+[16-09-26 14:53:42.781] LOG  : General      f:0> os.arch=amd64.
+[16-09-26 14:53:42.782] LOG  : General      f:0> java.vm.specification.name=Java Virtual Machine Specification.
+[16-09-26 14:53:42.783] LOG  : General      f:0> sun.os.patch.level=.
+[16-09-26 14:53:42.784] LOG  : General      f:0> native.encoding=Cp1252.
+[16-09-26 14:53:42.785] LOG  : General      f:0> java.vm.info=mixed mode, sharing.
+[16-09-26 14:53:42.785] LOG  : General      f:0> stderr.encoding=Cp1252.
+[16-09-26 14:53:42.786] LOG  : General      f:0> java.vendor=Azul Systems, Inc..
+[16-09-26 14:53:42.788] LOG  : General      f:0> java.vm.version=25.0.1+8-LTS.
+[16-09-26 14:53:42.789] LOG  : General      f:0> stdin.encoding=Cp1252.
+[16-09-26 14:53:42.789] LOG  : General      f:0> sun.io.unicode.encoding=UnicodeLittle.
+[16-09-26 14:53:42.790] LOG  : General      f:0> java.class.version=69.0.
+[16-09-26 14:53:42.790] LOG  : General      f:0> -----.
+[16-09-26 14:53:42.814] LOG  : General      f:0> version=42.20.4 b0bbce05d5 demo=false.
+[16-09-26 14:53:42.815] LOG  : General      f:0> revision=b0bbce05d5 pzbullet=1.0.0.28.
+[16-09-26 14:53:42.958] LOG  : General      f:0> Logs configuration:.
+[16-09-26 14:53:42.962] LOG  : General      f:0>      General: General.
+[16-09-26 14:53:42.963] LOG  : General      f:0>      Network: General.
+[16-09-26 14:53:42.963] LOG  : General      f:0>          Lua: General.
+[16-09-26 14:53:42.964] LOG  : General      f:0>          Mod: General.
+[16-09-26 14:53:42.965] LOG  : General      f:0>  Multiplayer: General.
+[16-09-26 14:53:42.966] LOG  : General      f:0>      Default: Off.
+[16-09-26 14:53:43.076] LOG  : General      f:0> LightingFPS set to 15.
+[16-09-26 14:53:44.065] LOG  : General      f:0> closest width=640 freq=60.
+[16-09-26 14:53:44.066] LOG  : General      f:0> closest width=800 freq=60.
+[16-09-26 14:53:44.067] LOG  : General      f:0> closest width=1128 freq=60.
+[16-09-26 14:53:44.068] LOG  : General      f:0> closest width=1280 freq=60.
+[16-09-26 14:53:44.069] LOG  : General      f:0> closest width=1366 freq=60.
+[16-09-26 14:53:44.071] LOG  : General      f:0> closest width=1600 freq=60.
+[16-09-26 14:53:44.072] LOG  : General      f:0> closest width=1760 freq=60.
+[16-09-26 14:53:45.328] LOG  : General      f:0> Display mode changed to 1920x1080 freq=60 fullScreen=true.
+[16-09-26 14:53:45.330] LOG  : General      f:0> GraphicsCard: ATI Technologies Inc. AMD Radeon(TM) Graphics.
+[16-09-26 14:53:45.331] LOG  : General      f:0> OpenGL version: 4.6.0 Compatibility Profile Context 26.8.1.260806.
+[16-09-26 14:53:45.332] LOG  : General      f:0> Desktop resolution 1920x1080.
+[16-09-26 14:53:45.337] LOG  : General      f:0> Initial resolution 1920x1080 fullScreen=true.
+[16-09-26 14:53:45.340] LOG  : General      f:0> OpenGL 1.5 buffer objects supported.
+[16-09-26 14:53:45.345] LOG  : General      f:0> VSync: OFF.
+[16-09-26 14:53:45.818] LOG  : General      f:0> 1789563225815 fmod: Java loging: OK.
+[16-09-26 14:53:45.826] LOG  : General      f:0> 1789563225826 fmod: FMOD::Studio::System::create() result: No errors..
+[16-09-26 14:53:45.827] LOG  : General      f:0> 1789563225827 fmod: FMOD::Studio::System::getCoreSystem() result: No errors..
+[16-09-26 14:53:45.829] LOG  : General      f:0> 1789563225827 fmod: FMOD_System_GetVersion() result: No errors..
+[16-09-26 14:53:45.830] LOG  : General      f:0> 1789563225829 fmod: fmodintegration built with version 20309, fmod shared library version 20309.
+[16-09-26 14:53:45.831] LOG  : General      f:0> 1789563225831 fmod: System Create: OK.
+[16-09-26 14:53:45.833] LOG  : General      f:0> 1789563225832 fmod: FMOD_System_SetSoftwareFormat() result: No errors..
+[16-09-26 14:53:46.648] LOG  : General      f:0> 1789563226647 fmod: FMOD::Studio::System::Initialize() result: No errors..
+[16-09-26 14:53:46.649] LOG  : General      f:0> 1789563226649 fmod: Creating DSP for capture sound.
+[16-09-26 14:53:46.650] LOG  : General      f:0> 1789563226650 fmod: FMOD_System_CreateDSP() result: No errors..
+[16-09-26 14:53:46.651] LOG  : General      f:0> 1789563226651 fmod: FMOD_DSP_SetBypass() result: No errors..
+[16-09-26 14:53:46.652] LOG  : General      f:0> 1789563226652 fmod: FMOD_System_GetMasterChannelGroup() result: No errors..
+[16-09-26 14:53:46.653] LOG  : General      f:0> 1789563226653 fmod: FMOD_ChannelGroup_AddDSP() result: No errors..
+[16-09-26 14:53:46.655] LOG  : General      f:0> 1789563226654 fmod: FMOD_System_Set3DSettings() result: No errors..
+[16-09-26 14:54:11.397] LOG  : Mod          f:0> refusing to list examplemod.
+[16-09-26 14:54:12.689] LOG  : General      f:0> Loading networking libraries....
+[16-09-26 14:54:12.690] LOG  : General      f:0> Loading steam_api64....
+[16-09-26 14:54:12.694] LOG  : General      f:0> Loading RakNet64....
+[16-09-26 14:54:12.710] LOG  : General      f:0> Loading ZNetJNI64....
+[16-09-26 14:54:12.935] LOG  : General      f:0> SteamUtils initialised successfully.
+[16-09-26 14:54:13.071] LOG  : General      f:0> Loading Mods.
+[16-09-26 14:54:13.088] LOG  : General      f:0> Loading Translations.
+[16-09-26 14:54:17.248] LOG  : Mod          f:0> refusing to list examplemod.
+[16-09-26 14:54:23.262] LOG  : General      f:0> texturepack: loading UI.
+[16-09-26 14:54:23.263] LOG  : General      f:0> Cargando pack de texturas UI.
+[16-09-26 14:54:23.360] LOG  : General      f:0> texturepack: loading UI2.
+[16-09-26 14:54:23.361] LOG  : General      f:0> Cargando pack de texturas UI2.
+[16-09-26 14:54:23.410] LOG  : General      f:0> texturepack: loading IconsMoveables.
+[16-09-26 14:54:23.411] LOG  : General      f:0> Cargando pack de texturas IconsMoveables.
+[16-09-26 14:54:23.429] LOG  : General      f:0> texturepack: loading RadioIcons.
+[16-09-26 14:54:23.429] LOG  : General      f:0> Cargando pack de texturas RadioIcons.
+[16-09-26 14:54:23.445] LOG  : General      f:0> texturepack: loading ApComUI.
+[16-09-26 14:54:23.446] LOG  : General      f:0> Cargando pack de texturas ApComUI.
+[16-09-26 14:54:23.462] LOG  : General      f:0> texturepack: loading Mechanics.
+[16-09-26 14:54:23.463] LOG  : General      f:0> Cargando pack de texturas Mechanics.
+[16-09-26 14:54:23.490] LOG  : General      f:0> texturepack: loading WeatherFx.
+[16-09-26 14:54:23.492] LOG  : General      f:0> Cargando pack de texturas WeatherFx.
+[16-09-26 14:54:23.582] LOG  : General      f:0> Cargando scripts.
+[16-09-26 14:54:40.545] ERROR: General      f:0 at FluidContainerScript.load           > Sanitizing container name 'Large Bucket', name may not contain whitespaces..
+[16-09-26 14:54:41.779] ERROR: General      f:0 at FluidContainerScript.load           > Sanitizing container name 'Fuel Pump', name may not contain whitespaces..
+[16-09-26 14:54:42.013] WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Yunque de Piedra.
+[16-09-26 14:54:42.014] WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone.
+[16-09-26 14:54:42.020] WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Yunque de Piedra.
+[16-09-26 14:54:42.020] WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone.
+[16-09-26 14:54:42.027] WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Yunque de Piedra.
+[16-09-26 14:54:42.028] WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone.
+[16-09-26 14:54:42.032] WARN : General      f:0 at XuiSkin$EntityUiStyle.Load          > Could not find icon: Build_AnvilStone, script = Yunque de Piedra.
+[16-09-26 14:54:42.035] WARN : General      f:0 at XuiSkin$EntityUiStyle.LoadComponentInfo> Could not find icon: Build_AnvilStone.
+[16-09-26 14:54:42.172] WARN : General      f:0 at TaggedObjectManager.createTagBits   > manager-> new tag discovered that was not preprocessed, tag: keyduplicator.
+[16-09-26 14:54:42.178] WARN : General      f:0 at TaggedObjectManager.createTagBits   > manager-> new tag discovered that was not preprocessed, tag: choppingblock.
+[16-09-26 14:54:42.506] LOG  : General      f:0> Cargando ropa.
+[16-09-26 14:54:43.722] LOG  : General      f:0> .
+[16-09-26 14:54:48.258] LOG  : General      f:0> Cargando Lua.
+[16-09-26 14:54:49.865] WARN : Lua          f:0 at Lua(Vanilla).corpseStorageCheck     > require("ISUI/ISInventoryPaneContextMenu") failed.
+[16-09-26 14:54:49.896] WARN : Lua          f:0 at Lua(Vanilla).corpseStorageCheck     > require("ISUI/ISVehicleMenu") failed.
+[16-09-26 14:54:49.897] WARN : Lua          f:0 at Lua(Vanilla).corpseStorageCheck     > require("ISUI/ISContextMenu") failed.
+[16-09-26 14:54:50.145] WARN : Lua          f:0 at Lua(Vanilla).ISCampingMenu          > require("Camping/CCampfireSystem") failed.
+[16-09-26 14:54:55.413] WARN : Lua          f:0 at Lua(Vanilla).ISInventoryTransferUtil> require("TimedActions/ISInventoryTransferAction") failed.
+[16-09-26 14:54:55.437] WARN : Lua          f:0 at Lua(Vanilla).ISInventoryTransferUtil> require("ISUI/PlayerData/ISPlayerData") failed.
+[16-09-26 14:55:04.952] WARN : Lua          f:0 at Lua(Vanilla).ISAnimalContextMenu    > require("BuildingObjects/ISAnimalPickMateCursor") failed.
+[16-09-26 14:55:06.682] WARN : Lua          f:0 at Lua(Vanilla).TakeSameType           > require("ISUI/InventoryWindow/ISLootWindowControlHandler") failed.
+[16-09-26 14:55:06.776] WARN : Lua          f:0 at Lua(Vanilla).FloorTakeSameType      > require("ISUI/InventoryWindow/ISLootWindowControlHandler") failed.
+[16-09-26 14:55:10.450] WARN : Lua          f:0 at Lua(Vanilla).testUI                 > require("pzapi/ui/ui") failed.
+[16-09-26 14:55:13.456] LOG  : Lua          f:0> OnLoadSoundbanks.
+[16-09-26 14:55:13.460] LOG  : General      f:0> texturepack: loading Tiles2x.
+[16-09-26 14:55:13.460] LOG  : General      f:0> Cargando pack de texturas Tiles2x.
+[16-09-26 14:55:14.125] LOG  : General      f:0> texturepack: loading Overlays2x.
+[16-09-26 14:55:14.125] LOG  : General      f:0> Cargando pack de texturas Overlays2x.
+[16-09-26 14:55:14.147] LOG  : General      f:0> texturepack: loading JumboTrees2x.
+[16-09-26 14:55:14.148] LOG  : General      f:0> Cargando pack de texturas JumboTrees2x.
+[16-09-26 14:55:14.364] LOG  : General      f:0> texturepack: loading JumboTreesBigs2x.
+[16-09-26 14:55:14.364] LOG  : General      f:0> Cargando pack de texturas JumboTreesBigs2x.
+[16-09-26 14:55:14.414] LOG  : General      f:0> texturepack: loading Tiles2x.floor.
+[16-09-26 14:55:14.414] LOG  : General      f:0> Cargando pack de texturas Tiles2x.floor.
+[16-09-26 14:55:14.434] LOG  : General      f:0> texturepack: loading B42ChunkCaching2x.
+[16-09-26 14:55:14.435] LOG  : General      f:0> Cargando pack de texturas B42ChunkCaching2x.
+[16-09-26 14:55:14.437] LOG  : General      f:0> texturepack: loading B42ChunkCaching2x.floor.
+[16-09-26 14:55:14.438] LOG  : General      f:0> Cargando pack de texturas B42ChunkCaching2x.floor.
+[16-09-26 14:55:14.450] LOG  : General      f:0> texturepack: loading Clock2x.
+[16-09-26 14:55:14.451] LOG  : General      f:0> Cargando pack de texturas Clock2x.
+[16-09-26 14:55:14.473] LOG  : General      f:0> Cargando modelos y animaciones.
+[16-09-26 14:55:18.346] LOG  : General      f:0> 1789563318346 fmod: globalSystem = 0xE43500C8.
+[16-09-26 14:55:18.347] LOG  : General      f:0> 1789563318346 fmod: FMOD_System_GetRecordDriverInfo: nativeRate = 48000, nativeChannels = 2.
+[16-09-26 14:55:18.349] LOG  : General      f:0> 1789563318348 fmod: System create record sound: OK.
+[16-09-26 14:55:18.350] LOG  : General      f:0> 1789563318349 fmod: Create resampler: OK.
+[16-09-26 14:55:18.353] LOG  : General      f:0> 1789563318353 fmod: Create acoustic echo canceller: OK.
+[16-09-26 14:55:18.778] LOG  : General      f:0> 1789563318777 fmod: GetRecordNumDrivers id = 0, sound = 0xfc534f88 loop=1.
+[16-09-26 14:55:18.783] LOG  : General      f:0> Iniciando el juego.
+[16-09-26 14:55:25.344] LOG  : General      f:0> STATE: exit zombie.gameStates.TISLogoState.
+[16-09-26 14:55:25.423] LOG  : General      f:0> STATE: exit zombie.gameStates.TermsOfServiceState.
+[16-09-26 14:55:27.551] LOG  : General      f:0> binkId: 1.
+[16-09-26 14:55:28.075] WARN : Lua          f:0 at Lua(Vanilla).namedColorToTable      > env.lua-> namedColorToTable color not found: ProgressYellow.
+[16-09-26 14:55:32.825] LOG  : General      f:0> binkId: 2.
+[16-09-26 21:42:38.307] LOG  : General      f:0> GameThread exited..
